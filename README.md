@@ -34,4 +34,4 @@
 | <p> | etiqueta que sirve como párrafo. sirve para implementar texto y hacer un salto de línea al mismo tiempo | ```<p> esto es un párrafo</p> ``` | 
 | ```<br>``` | etiqueta que sirve para hacer saltos de linea |  |
 | ```<h1> hasta <h6>``` | etiquetas que sirven para hacer encabezados, siendo el h1 el encabezado mas grande y el h6 el más pequeño | ```<em>``` | sirve para poner texto en cursiva | <em>hola que tal</em> |
-
+ | ```<p>``` | sirve para hacer texto con un salto de línea | ```<p>Hola soy Dani</p>``` |
