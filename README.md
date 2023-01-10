@@ -16,11 +16,10 @@
 | - | sirve para hacer listas desordenadas | - item1 |
 | + | sirve para hacer listas desordenadas | + item1 |
 | ''' ''' | todo lo que haya entre las 3 barras invertidas será texto HTML | ```HTML ``` |
-|  |  |  |
-|  |  |  |
 
 ## 3. HTML
- Código | Descripción | Ejemplo |
+
+| Código | Descripción | Ejemplo |
 | ------ | ----------- | ------- |
 | ```<head>``` | definición/información principal del documento html |  |
 | ```<body>``` | contenido del documento html | <body> </body>
